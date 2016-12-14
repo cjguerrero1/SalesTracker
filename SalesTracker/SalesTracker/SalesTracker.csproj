@@ -217,6 +217,10 @@
     <Compile Include="Migrations\201612142140128_added sizes, measurements, and wardrobe.Designer.cs">
       <DependentUpon>201612142140128_added sizes, measurements, and wardrobe.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201612142243478_change some datatypes.cs" />
+    <Compile Include="Migrations\201612142243478_change some datatypes.Designer.cs">
+      <DependentUpon>201612142243478_change some datatypes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Appointment.cs" />
@@ -315,6 +319,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201612142140128_added sizes, measurements, and wardrobe.resx">
       <DependentUpon>201612142140128_added sizes, measurements, and wardrobe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612142243478_change some datatypes.resx">
+      <DependentUpon>201612142243478_change some datatypes.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -11,6 +11,7 @@ namespace SalesTracker.Models
         [Key]
         public int Id { get; set; }
         public string Occupation { get; set; }
+        [DataType(DataType.Date)]
         public DateTime Birthday { get; set; }
         public List<string> Hobbies { get; set; }
 

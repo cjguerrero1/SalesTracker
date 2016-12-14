@@ -11,7 +11,10 @@ namespace SalesTracker.Models
     {
         [Key]
         public int Id { get; set; }
-        public DateTime DateTime { get; set; }
+        [DataType(DataType.Date)]
+        public DateTime Date { get; set; }
+        [DataType(DataType.Time)]
+        public DateTime Time { get; set; }
 
         [ForeignKey("Customer")]
         public int CustomerId { get; set; }

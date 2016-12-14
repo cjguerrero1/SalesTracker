@@ -85,3 +85,4 @@ C:\Users\cjgue\Documents\github\SalesTracker\SalesTracker\SalesTracker\obj\Debug
 C:\Users\cjgue\Documents\github\SalesTracker\SalesTracker\SalesTracker\obj\Debug\SalesTracker.Migrations.createdtables.resources
 C:\Users\cjgue\Documents\github\SalesTracker\SalesTracker\SalesTracker\obj\Debug\SalesTracker.Migrations.addedmorecustomerinfo.resources
 C:\Users\cjgue\Documents\github\SalesTracker\SalesTracker\SalesTracker\obj\Debug\SalesTracker.Migrations.addedsizesmeasurementsandwardrobe.resources
+C:\Users\cjgue\Documents\github\SalesTracker\SalesTracker\SalesTracker\obj\Debug\SalesTracker.Migrations.changesomedatatypes.resources
